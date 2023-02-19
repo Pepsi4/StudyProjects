@@ -1,0 +1,6 @@
+Hey!
+After importing it, make sure your Mesh Renderer's "Cast Shadows" is OFF for this sphere to
+let it pass the lighting to inside.
+
+Thank you and farawell,
+Mert
