@@ -126,7 +126,7 @@ Material:
     - _BaseColor: {r: 0.8, g: 0.8, b: 0.8, a: 1}
     - _Color: {r: 0.8, g: 0.8, b: 0.8, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _PlayerPosition: {r: 18.489914, g: 0.99000156, b: -2.0379133, a: 0}
+    - _PlayerPosition: {r: 5.767591, g: 0.98999846, b: -3.1360185, a: 0}
     - _SpecColor: {r: 0.2, g: 0.2, b: 0.2, a: 1}
     - _TilingAndOffset: {r: 0.59, g: 0.87, b: 0, a: 0}
   m_BuildTextureStacks: []
