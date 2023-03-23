@@ -140,7 +140,7 @@ Material:
     - _SoftParticleFadeParams: {r: 0, g: 0, b: 0, a: 0}
     - _SpecColor: {r: 0.2, g: 0.2, b: 0.2, a: 1}
     - _TextOffset: {r: 0, g: 0, b: 0, a: 0}
-    - _TextTilling: {r: 1, g: 1, b: 0, a: 0}
+    - _TextTilling: {r: 0.5, g: 1, b: 0, a: 0}
     - _TilingEfect: {r: 1, g: 1, b: 0, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &2182594232730084134

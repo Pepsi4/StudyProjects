@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: acad81deb0f18e245b449ba875e1f335
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - MontereyFLF
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e40be8a393d8add48b59d427b70359e2, type: 3}
+  - {fileID: 12800000, guid: c1f56de4450845544a9dd1cd3e4c0dbe, type: 3}
+  - {fileID: 12800000, guid: 2c38e5f89a945b84eafa6d603d7cea35, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
