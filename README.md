@@ -4,7 +4,6 @@
 
 - AI State Machine
 - NavMesh pathfinding
-- Custromg grid and pathfinding system
 - Simple machine learning example
 - Interactive animated snow shader
 - Bastion effect shader (fading-appearing 3D)
@@ -20,4 +19,5 @@
 - Chain physics simulation (configurable joints)
 - Grappling hook mechanic
 
-![MergedImages](https://user-images.githubusercontent.com/10260469/227236282-c96800ab-178b-4162-a2f8-64ee564f654b.png)
+![MergedImages](https://user-images.githubusercontent.com/10260469/227244804-3335e57d-c1eb-46c0-a8c0-649068f75978.png)
+
