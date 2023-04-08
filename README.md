@@ -4,7 +4,6 @@
 
 - AI State Machine
 - NavMesh pathfinding
-- Simple machine learning example
 - Interactive animated snow shader
 - Bastion effect shader (fading-appearing 3D)
 - Gradient Skybox shader with blinking stars
