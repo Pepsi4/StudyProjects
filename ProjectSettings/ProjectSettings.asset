@@ -363,6 +363,7 @@ PlayerSettings:
       m_Height: 36
       m_Kind: 0
       m_SubKind: 
+<<<<<<< HEAD
   - m_BuildTarget: iPhone
     m_Icons:
     - m_Textures: []
@@ -460,6 +461,8 @@ PlayerSettings:
       m_Height: 1024
       m_Kind: 4
       m_SubKind: App Store
+=======
+>>>>>>> 9b1d1ab26bbd4ca26ffce646db62c804150a9a1d
   m_BuildTargetBatching: []
   m_BuildTargetShaderSettings: []
   m_BuildTargetGraphicsJobs:
