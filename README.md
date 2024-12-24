@@ -21,4 +21,4 @@
 ![MergedImages](https://user-images.githubusercontent.com/10260469/227244804-3335e57d-c1eb-46c0-a8c0-649068f75978.png)
 
 
-[![youtube video show case](https://img.youtube.com/vi/F2rZtn8MeR0/0.jpg)]([https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://www.youtube.com/watch?v=F2rZtn8MeR0))
+[![Iyoutube video show case](https://img.youtube.com/vi/F2rZtn8MeR0/0.jpg)](https://www.youtube.com/watch?v=F2rZtn8MeR0)
